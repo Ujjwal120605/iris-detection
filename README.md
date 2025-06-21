@@ -12,7 +12,7 @@ A simple and beginner-friendly Machine Learning web app built with **Streamlit**
 - 🖥️ Web UI using **Streamlit sliders** for live prediction
 
 ---
-https://iris-detection-glkm6b5pj9bd4pirmp7u6f.streamlit.app/
+[https://iris-detection-glkm6b5pj9bd4pirmp7u6f.streamlit.app/](http://localhost:8503/)
 
 ## 📁 Folder Structure
 
